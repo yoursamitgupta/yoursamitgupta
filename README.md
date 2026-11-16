@@ -5,7 +5,8 @@
   ### 🚀 Building high-leverage tools at the intersection of AI & Software Engineering
 
   [![GitHub followers](https://img.shields.io/github/followers/yoursamitgupta?label=Follow&style=social)](https://github.com/yoursamitgupta)
-  [![License](https://img.shields.io/badge/Open%20Source-Passionate-brightgreen)](https://github.com/yoursamitgupta)
+  [![Repositories](https://img.shields.io/badge/Open%20Source%20Repos-6%2B-blue?style=flat&logo=github)](https://github.com/yoursamitgupta?tab=repositories)
+  [![License](https://img.shields.io/badge/License-MIT-brightgreen)](https://github.com/yoursamitgupta)
 
 </div>
 
@@ -50,11 +51,10 @@ I am an engineer focused on eliminating friction in the modern software lifecycl
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Contributions & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoursamitgupta&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursamitgupta&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=yoursamitgupta&theme=radical&hide_border=true" width="70%" alt="GitHub Streak" />
 </div>
 
 ---
